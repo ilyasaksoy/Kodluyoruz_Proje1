@@ -15,52 +15,53 @@
 ##1 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
 - **1. çevrim**
-
-    1. ![1. aşama](../resimler/1.jpg)
-
+<br></br>
+    1. ![1. aşama](https://raw.githubusercontent.com/qutaiba-963/Kodluyoruz_Proje1/main/resimler/1.jpg)
+<br></br>
+<br></br>
 - **2. çevrim**
-
-    1. ![1. aşama](../resimler/2.1.jpg)
-
-    2. ![2. aşama](../resimler/2.2.jpg)
-
-    3. ![3. aşama](../resimler/2.3.jpg)
-
-
-
+<br></br>
+    1. ![1. aşama](https://github.com/qutaiba-963/Kodluyoruz_Proje1/raw/main/resimler/2.1.jpg)
+<br></br>
+    2. ![2. aşama](https://github.com/qutaiba-963/Kodluyoruz_Proje1/raw/main/resimler/2.2.jpg)
+<br></br>
+    3. ![3. aşama](https://github.com/qutaiba-963/Kodluyoruz_Proje1/raw/main/resimler/2.3.jpg)
+<br></br>
+<br></br>
 - **3. çevrim**
-
-    1. ![1. aşama](../resimler/3.1.jpg)
-
-    2. ![2. aşama](../resimler/3.2.jpg)
-
-    3. ![3. aşama](../resimler/3.3.jpg)
-
-    4. ![4. aşama](../resimler/3.4.jpg)
-
-
+<br></br>
+    1. ![1. aşama](https://github.com/qutaiba-963/Kodluyoruz_Proje1/raw/main/resimler/3.1.jpg)
+<br></br>
+    2. ![2. aşama](https://github.com/qutaiba-963/Kodluyoruz_Proje1/raw/main/resimler/3.2.jpg)
+<br></br>
+    3. ![3. aşama](https://github.com/qutaiba-963/Kodluyoruz_Proje1/raw/main/resimler/3.3.jpg)
+<br></br>
+    4. ![4. aşama](https://github.com/qutaiba-963/Kodluyoruz_Proje1/raw/main/resimler/3.4.jpg)
+<br></br>
+<br></br>
 - **4. çevrim**
-
-    1. ![1. aşama](../resimler/4.1.jpg)
-
-    2. ![2. aşama](../resimler/4.2.jpg)
-
-    3. ![3. aşama](../resimler/4.3.jpg)
-
-
-
+<br></br>
+    1. ![1. aşama](https://github.com/qutaiba-963/Kodluyoruz_Proje1/raw/main/resimler/4.1.jpg)
+<br></br>
+    2. ![2. aşama](https://github.com/qutaiba-963/Kodluyoruz_Proje1/raw/main/resimler/4.2.jpg)
+<br></br>
+    3. ![3. aşama](https://github.com/qutaiba-963/Kodluyoruz_Proje1/raw/main/resimler/4.3.jpg)
+<br></br>
+<br></br>
 - **5. çevrim**
-
-    1. ![1. aşama](../resimler/5.1.jpg)
-
-    2. ![2. aşama](../resimler/5.2.jpg)
-
-    3. ![3. aşama](../resimler/5.3.jpg)
-
-    4. ![4. aşama](../resimler/5.4.jpg)
-
-    5. ![5. aşama](../resimler/5.5.jpg)
-
+<br></br>
+    1. ![1. aşama](https://github.com/qutaiba-963/Kodluyoruz_Proje1/raw/main/resimler/5.1.jpg)
+<br></br>
+    2. ![2. aşama](https://github.com/qutaiba-963/Kodluyoruz_Proje1/raw/main/resimler/5.2.jpg)
+<br></br>
+    3. ![3. aşama](https://github.com/qutaiba-963/Kodluyoruz_Proje1/raw/main/resimler/5.3.jpg)
+<br></br>
+    4. ![4. aşama](https://github.com/qutaiba-963/Kodluyoruz_Proje1/raw/main/resimler/5.4.jpg)
+<br></br>
+    5. ![5. aşama](https://github.com/qutaiba-963/Kodluyoruz_Proje1/raw/main/resimler/5.5.jpg)
+<br></br>
+<br></br>
+<br></br>
 ----
 
 ##2 Big-O gösterimini yazınız.
